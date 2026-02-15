@@ -1,0 +1,6 @@
+Content/AssetPacks/**/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/AssetPacks/**/*.umap filter=lfs diff=lfs merge=lfs -text
+Content/AssetPacks/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Content/AssetPacks/**/*.png filter=lfs diff=lfs merge=lfs -text
+Content/AssetPacks/**/*.wav filter=lfs diff=lfs merge=lfs -text
+Content/AssetPacks/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
