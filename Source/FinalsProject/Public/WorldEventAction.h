@@ -10,8 +10,6 @@ class FINALSPROJECT_API UWorldEventAction : public UObject
 {
   GENERATED_BODY()
 public:
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Event")
-	FName DebugName;
 
 	UFUNCTION(BlueprintCallable, Category = "WorldEvent")
 	AActor* SpawnActor(TSubclassOf<AActor> Class, const FTransform& Transform);
