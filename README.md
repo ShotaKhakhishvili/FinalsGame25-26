@@ -1,5 +1,7 @@
 Controls:
 
+X - Pause Game
+
 F - Change Skill
 
 G - Change Weapon
