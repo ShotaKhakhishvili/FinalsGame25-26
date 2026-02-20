@@ -24,3 +24,4 @@ Mouse Left Click -  Attack
 
 Mouse Right Click - Aim
 
+Download: https://kiuge-my.sharepoint.com/:u:/g/personal/zedginidze_saba_kiu_edu_ge/IQD9MOq__J3_RKUne5QXl_daAUDDlYdsPLg3go7BpDXnqZs?e=lu7f7b
